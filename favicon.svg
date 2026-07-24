@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 3ff71b8d6fa95e82</metadata>
-  <rect width="64" height="64" rx="12" fill="hsl(175 49% 39%)"/>
-  <path d="M36 0h28v64H22Z" fill="hsl(250 69% 76%)" opacity="0.82"/>
-  <g transform="rotate(83 32 32)" opacity="0.42"><path d="M14 20h36L32 50Z" fill="none" stroke="#101418" stroke-width="7" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">TM</text>
+  <title>마포 노래방 정보</title>
+  <rect width="64" height="64" rx="12" fill="hsl(175 47% 31%)"/>
+  <g transform="rotate(270 32 32)"><g fill="none" stroke="hsl(175 24% 96%)" stroke-width="7" stroke-linecap="round"><path d="M32 14a18 18 0 0 1 18 18"/><path d="M32 50a18 18 0 0 1-18-18"/></g><path d="M50 32a18 18 0 0 1-18 18" fill="none" stroke="hsl(257 68% 68%)" stroke-width="7" stroke-linecap="round"/></g>
 </svg>
